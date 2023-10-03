@@ -12,13 +12,22 @@ I'm Mechatronic engineer with more than 2 years of experience working in softwar
   - [Bootstrap](https://getbootstrap.com/)
   - [Beercss](https://www.beercss.com/)
 - JavaScript
+  - [Redux Toolkit](https://redux-toolkit.js.org/)
   - [React](https://react.dev/)
   - [Mithril](https://mithril.js.org/)
+  - [Jest](https://jestjs.io/)
+- Package managers
+  - [yarn](https://yarnpkg.com/)
+  - [npm](https://www.npmjs.com/)
+- [Typescript](https://www.typescriptlang.org/)
+
 
 ## Backend stack
 - [Node.js](https://nodejs.org/es/)
-- [Node.js](https://nodejs.org/es/)
 - [express.js](https://expressjs.com/es/)
 - [MongoDB](https://www.mongodb.com/es)
+- [Python](https://www.python.org/)
+
+## clean architecture
 
 ⚽ I love playing Soccer and dancing 🕺
